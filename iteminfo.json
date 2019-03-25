@@ -1,0 +1,60 @@
+{
+    "access": "org",
+    "accessInformation": "Australian Rugby Union",
+    "appCategories": [
+    ],
+    "avgRating": 0,
+    "banner": null,
+    "categories": [
+    ],
+    "commentsEnabled": true,
+    "created": 1440128306000,
+    "culture": "en-au",
+    "description": "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" font-family:'AvenirNext LT Pro Regular'; font-size:11pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">The app is an adaption of Rugby Referee Coaching in Practice</p></body></html>",
+    "documentation": null,
+    "extent": [
+    ],
+    "groupDesignations": null,
+    "guid": null,
+    "id": "cca148c82a1e4607826701bb50d70348",
+    "industries": [
+    ],
+    "itemControl": "admin",
+    "languages": [
+    ],
+    "largeThumbnail": null,
+    "licenseInfo": "",
+    "listed": false,
+    "modified": 1523941106000,
+    "name": "cca148c82a1e4607826701bb50d70348.zip",
+    "numComments": 21,
+    "numRatings": 0,
+    "numViews": 89,
+    "owner": "Marika",
+    "ownerFolder": null,
+    "properties": null,
+    "protected": true,
+    "proxyFilter": null,
+    "scoreCompleteness": 56,
+    "screenshots": [
+    ],
+    "size": 1154245,
+    "snippet": "An adaption of Rugby Referee Coaching in Practice",
+    "spatialReference": null,
+    "tags": [
+        "AppStudio"
+    ],
+    "thumbnail": "thumbnail/thumbnail.png",
+    "title": "RCIP",
+    "type": "Native Application",
+    "typeKeywords": [
+        "API_QML",
+        "App",
+        "Application",
+        "AppStudio",
+        "Configuration",
+        "Native",
+        "qml"
+    ],
+    "url": null
+}

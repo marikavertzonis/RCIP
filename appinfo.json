@@ -1,0 +1,91 @@
+{
+    "arcgisRuntime": 0,
+    "capabilities": {
+        "audio": false,
+        "backgroundLocation": false,
+        "biometricAuthentication": false,
+        "bluetooth": false,
+        "camera": false,
+        "fileSharing": false,
+        "highAccuracyLocation": false,
+        "ios": {
+            "externalAccessoryProtocolStrings": [
+            ]
+        },
+        "localnotification": false,
+        "location": false,
+        "microphone": false,
+        "network": false,
+        "storage": false,
+        "vibration": false
+    },
+    "deployment": {
+        "android": {
+            "packageName": "com.matchofficialbraintraining.rcip"
+        },
+        "arcgisRuntimeExtensionsLicense": "",
+        "arcgisRuntimeLicense": "",
+        "clientId": "",
+        "ios": {
+            "bundleId": "com.matchofficialbraintraining.rcip",
+            "codeSignIdentity": ""
+        },
+        "macos": {
+            "bundleId": "",
+            "codeSignIdentity": ""
+        },
+        "publisherName": "",
+        "uwp": {
+            "packageName": "",
+            "productID": ""
+        }
+    },
+    "devicesTypes": [
+        "desktop",
+        "tablet",
+        "phone"
+    ],
+    "display": {
+        "desktop": {
+            "minimumHeight": 0,
+            "minimumWidth": 0,
+            "windowMode": "default"
+        },
+        "phone": {
+            "landscape": false,
+            "portrait": true,
+            "showStatusBar": true
+        },
+        "tablet": {
+            "landscape": true,
+            "portrait": true,
+            "showStatusBar": true
+        }
+    },
+    "environment": {
+    },
+    "launchUrlSchemes": [
+    ],
+    "mainFile": "RCIP.qml",
+    "multipleInstances": true,
+    "projectFile": "RCIP.qmlproject",
+    "properties": {
+        "menuButtonColor": "#8f8f8f",
+        "menuButtonColorPressed": "#d1d1d1",
+        "navigationButtonColor": "#F8C72D",
+        "navigationButtonColorPressed": "#F7E5A3",
+        "toolbarColor": "#012964"
+    },
+    "resources": {
+        "appIcon": "appicon.png",
+        "launchImageBackground": "launchimage-background.png",
+        "launchImageBackgroundColor": "#ebb92c",
+        "launchImageOverlay": "rcip.jpg"
+    },
+    "type": "app",
+    "urlScheme": "",
+    "version": {
+        "major": 1,
+        "micro": 53
+    }
+}

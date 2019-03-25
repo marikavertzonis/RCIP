@@ -1,0 +1,20 @@
+[CloudMake]
+notifications=normal
+targetAndroid=false
+targetiOS=true
+
+[Android]
+signApk=true
+keyStorePath=D:/StoreSubmission/MOBT.keystore
+keyAlias=MOBT
+
+[IOS]
+provisioningProfile=D:/matchofficialbraintraining2018.mobileprovision
+certificate=D:/mobt 2018.p12
+distributionMethod=app-store
+
+[MacOS]
+signApp=false
+
+[Windows]
+signApp=false
